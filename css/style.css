@@ -1,0 +1,17 @@
+@import "./fonts.css";
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+:root {
+    --blue: rgb(52, 95, 246);
+    --white: rgb(255, 255, 255);
+    --light: rgb(227, 243, 253);
+
+    font-size: 16px;
+
+}
